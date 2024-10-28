@@ -26,10 +26,10 @@
     <img src="https://img.shields.io/badge/Electron-%232B2E3A?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
 </div>
 
-<h2 align="center">About Capiti Tech</h2>
+<h2 align="center">Capiti Tech</h2>
 
 <p align="center">
-    <strong>Capiti.tech</strong> is my startup focused on building customized systems tailored to specific business needs. Our aim is to deliver reliable and efficient software solutions that enhance operations and support the unique goals of our clients.
+    <strong>Capiti tech</strong> is my startup focused on building customized systems tailored to specific business needs. Our aim is to deliver reliable and efficient software solutions that enhance operations and support the unique goals of our clients.
 </p>
 
 <div align="center">
