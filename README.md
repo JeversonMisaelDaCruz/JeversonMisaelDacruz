@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-    I'm <strong>Jeverson Misael</strong>, a Full Stack Developer specializing in <strong>NestJS, TypeScript, SQL, Prisma, Linux, Power BI</strong>, and <strong>Node.js</strong>. Currently deepening my expertise in Next.js and Node.js, I'm passionate about building efficient, scalable solutions and always eager to learn and implement the latest technologies.
+    I'm <strong>Jeverson Misael</strong>, a Full Stack Developer specializing in <strong>NestJS, TypeScript, SQL, Prisma, Linux, Power BI</strong>, and <strong>Node.js</strong>.  in Next.js and Node.js, I'm passionate about building efficient, scalable solutions and always eager to learn and implement the latest technologies.
 </p>
 
 <div align="center">
