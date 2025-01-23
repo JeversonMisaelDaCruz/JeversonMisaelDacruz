@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-  Eu sou <strong>Jeverson Misael</strong>, desenvolvedor Full Stack especializado em <strong>NestJS, TypeScript, SQL, Prisma, Linux, Power BI</strong>, <strong>Node.js</strong> e agora também trabalhando com <strong>AdonisJS</strong>. Sou apaixonado por criar soluções eficientes e escaláveis, e estou sempre buscando aprender e implementar novas tecnologias.
+  I am <strong>Jeverson Misael</strong>, a Full Stack Developer specialized in <strong>NestJS, AdonisJS, TypeScript, SQL, Prisma, Linux, Power BI</strong>, and <strong>Node.js</strong>. I am passionate about building efficient, scalable solutions, and I am always looking to learn and implement new technologies.
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
     </a>
 </div>
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Technologies</h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
