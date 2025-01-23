@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-    I'm <strong>Jeverson Misael</strong>, a Full Stack Developer specializing in <strong>NestJS, TypeScript, SQL, Prisma, Linux, Power BI</strong>, and <strong>Node.js</strong>.  in Next.js and Node.js, I'm passionate about building efficient, scalable solutions and always eager to learn and implement the latest technologies.
+  Eu sou <strong>Jeverson Misael</strong>, desenvolvedor Full Stack especializado em <strong>NestJS, TypeScript, SQL, Prisma, Linux, Power BI</strong>, <strong>Node.js</strong> e agora também trabalhando com <strong>AdonisJS</strong>. Sou apaixonado por criar soluções eficientes e escaláveis, e estou sempre buscando aprender e implementar novas tecnologias.
 </p>
 
 <div align="center">
@@ -13,30 +13,19 @@
     </a>
 </div>
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Tecnologias</h2>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Nest.js-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    <img src="https://img.shields.io/badge/Adonis.js-%235A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS">
+    <img src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
     <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-    <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Terminal-%23000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
-    <img src="https://img.shields.io/badge/Insomnia-%235836B2?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
-</div>
-
-<h2 align="center">Capiti Tech</h2>
-
-<p align="center">
-    <strong>Capiti tech</strong> is my startup focused on building customized systems tailored to specific business needs. Our aim is to deliver reliable and efficient software solutions that enhance operations and support the unique goals of our clients.
-</p>
-
-<div align="center">
-    <a href="https://capiti.tech" target="_blank">
-        <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Capiti Website">
-    </a>
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
