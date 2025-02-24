@@ -1,15 +1,18 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-  I am <strong>Jeverson Misael</strong>, a Full Stack Developer specialized in <strong>NestJS, AdonisJS, TypeScript, SQL, Prisma, Linux, Power BI</strong>, and <strong>Node.js</strong>. I am passionate about building efficient, scalable solutions, and I am always looking to learn and implement new technologies.
+ I am <strong>Jeverson Misael</strong>, a Software Engineer with experience in <strong>NestJS, AdonisJS, TypeScript, SQL, Prisma, LucidORM, Linux servers</strong>, and <strong>Power BI</strong>. Additionally, I am the owner of <strong>CapitiTech</strong>, a company specialized in systems for medium and small businesses. I am passionate about developing efficient and scalable solutions, always seeking to learn and implement new technologies.
 </p>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jeverson-misael-da-cruz-filho-136533262/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:jeversonmisaeldacruzfilho@gmail.com" target="_blank">
+    <a href="mailto:jeverson@capititech.com.br" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://capititech.com.br/" target="_blank">
+        <img src="https://img.shields.io/badge/CapitiTech-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CapitiTech Website">
     </a>
 </div>
 
