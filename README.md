@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
- I am <strong>Jeverson Misael</strong>, a Software Engineer with experience in <strong>NestJS, AdonisJS, TypeScript, SQL, PrismaORM, LucidORM, Linux servers</strong>, and <strong>Power BI</strong>. Additionally, I am the owner of <strong>CapitiTech</strong>, a company specialized in systems for medium and small businesses. I am passionate about developing efficient and scalable solutions, always seeking to learn and implement new technologies.
+ I am Software Engineer with experience in <strong>NestJS, AdonisJS, TypeScript, SQL, PrismaORM, LucidORM, Linux servers</strong>, and <strong>Power BI</strong>. Additionally, I am the owner of <strong>CapitiTech</strong>, a company specialized in systems for medium and small businesses. I am passionate about developing efficient and scalable solutions, always seeking to learn and implement new technologies.
 </p>
 
 <div align="center">
