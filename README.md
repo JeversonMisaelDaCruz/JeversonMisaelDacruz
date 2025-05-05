@@ -6,7 +6,6 @@ I am a **Software Engineer** with experience in **NestJS, AdonisJS, TypeScript, 
 
 Currently, I am learning **Golang** and expanding my skill set. 
 
-I am also the owner of **[CapitiTech](#)**, a company specialized in building systems for small and medium-sized businesses. Passionate about developing efficient and scalable solutions, always looking to learn and implement new technologies.  
 
 ### 📫 Connect with me:
 
