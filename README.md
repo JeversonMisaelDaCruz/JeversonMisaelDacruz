@@ -2,10 +2,7 @@
 
 ##  Hey, I'm Jeverson!
 
-I am a **Software Engineer** with experience in **NestJS, AdonisJS, TypeScript, SQL, PrismaORM, LucidORM, Linux servers**, and **Power BI**.  
-
-Currently, I am learning **Golang** and expanding my skill set. 
-
+I am a **Software Engineer** with experience in **Golang,NestJS, AdonisJS, TypeScript, Linux servers**, and **Power BI**.  
 
 ### 📫 Connect with me:
 
