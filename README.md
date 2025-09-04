@@ -1,33 +1,38 @@
-<h1 align="center">Welcome</h1>
 
-##  Hey, I'm Jeverson!
+# Welcome
 
-I am a **Software Engineer** with experience in **Golang,NestJS, AdonisJS, TypeScript, Linux servers**, and **Power BI**.  
+I'm **Jeverson Misael**, a **Software Engineer** specialized in **JavaScript** and **Golang**.
+Currently, I am more focused on the **backend side**, designing and implementing high-performance applications,  **critical systems** that must operate reliably in **hard-to-reach areas**.
 
-### 📫 Connect with me:
+I'm building solutions as **Founder and Software Engineer** at the startup **[Capiti.tech](#)**, a company  with focus in creating systems for **agribusiness**, **automations**, and other business areas.
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/jeverson-misael-da-cruz-filho-136533262/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:jeversonmisaeldacruzfilho@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-</div>
+---
 
-<h2 align="center">Technologies</h2>
+### 📫 Connect with me
 
-<div align="center">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
-    <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-    <img src="https://img.shields.io/badge/Adonis.js-%235A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS">
-    <img src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
-    <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
-</div>
+<div align="center">  
+  <a href="https://www.linkedin.com/in/jeverson-misael" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">  
+  </a>  
+  <a href="mailto:jeversonmisael@gmail.com">  
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">  
+  </a>  
+</div>  
+
+---
+
+## 🚀 Technologies
+
+* **Languages:** JavaScript/ts, Golang
+* **Backend Frameworks:** NestJS, Gin
+* **Frontend Framework:** Vue.js
+* **Databases:** PostgreSQL, MySQL
+
+---
+
+## 🎓 Academic
+
+**Technologist**
+Faculdade Senac Paraná | 2024 - 2026
+
+---
