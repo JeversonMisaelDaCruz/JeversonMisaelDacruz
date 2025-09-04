@@ -8,7 +8,7 @@ I'm building solutions as **Founder and Software Engineer** at the startup **[Ca
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/jeverson-misael" target="_blank">  
@@ -21,16 +21,17 @@ I'm building solutions as **Founder and Software Engineer** at the startup **[Ca
 
 ---
 
-## 🚀 Technologies
+##  Technologies
 
 * **Languages:** JavaScript/ts, Golang
 * **Backend Frameworks:** NestJS, Gin
+*  **Hardware & IoT:** Arduino
 * **Frontend Framework:** Vue.js
 * **Databases:** PostgreSQL, MySQL
 
 ---
 
-## 🎓 Academic
+##  Academic
 
 **Technologist**
 Faculdade Senac Paraná | 2024 - 2026
