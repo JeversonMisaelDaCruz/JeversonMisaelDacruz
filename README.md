@@ -4,8 +4,6 @@
 I'm **Jeverson Misael**, a **Software Engineer** specialized in **JavaScript** and **Golang**.
 Currently, I am more focused on the **backend side**, designing and implementing high-performance applications,  **critical systems** that must operate reliably in **hard-to-reach areas**.
 
-I'm building solutions as **Founder and Software Engineer** at the startup CapitiTech, a company  with focus in creating systems for **agribusiness**, **automations**, and other business areas.
-
 ---
 
 ###  Connect with me
