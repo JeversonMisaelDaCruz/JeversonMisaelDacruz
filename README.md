@@ -1,12 +1,13 @@
-
 # Welcome
 
-I'm **Jeverson Misael**, a **Software Engineer** specialized in **JavaScript** and **Golang**.
-Currently, I am more focused on the **backend side**, designing and implementing high-performance applications,  **critical systems** that must operate reliably in **hard-to-reach areas**.
+I'm **Jeverson Misael**, a **Software Engineer** working primarily with **JavaScript** and **Golang**.
+My current focus is on **backend development**, where I design and build **robust, high-performance systems** with an emphasis on **reliability, scalability, and resilience**.
+
+I have experience developing **critical applications** that must operate consistently even in **restricted or hard-to-reach environments**, where stability and fault tolerance are essential.
 
 ---
 
-###  Connect with me
+## 🔗 Connect with me
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/jeverson-misael" target="_blank">  
@@ -19,19 +20,23 @@ Currently, I am more focused on the **backend side**, designing and implementing
 
 ---
 
-##  Technologies
+## 🛠 Technologies
 
-* **Languages:** JavaScript/ts, Golang
-* **Backend Frameworks:** NestJS, Gin
-*  **Hardware & IoT:** Arduino
-* **Frontend Framework:** Vue.js
+* **Languages:** JavaScript / TypeScript, Golang
+* **Backend Frameworks:** NestJS,Adonis, Gin
+* **Hardware & IoT:** Arduino
+* **Frontend:** Vue.js
 * **Databases:** PostgreSQL, MySQL
 
 ---
 
-##  Academic
+## 🎓 Academic Background
 
-**Technologist**
-Faculdade Senac Paraná | 2024 - 2026
+**Technologist Degree**
+Faculdade Senac Paraná
+*2024 – 2026*
 
 ---
+
+* Tornar mais **corporativo**, mais **open-source**, ou mais **startup**
+* Traduzir para **português técnico** mantendo o mesmo nível de elegância
