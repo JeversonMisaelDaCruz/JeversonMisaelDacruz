@@ -1,9 +1,11 @@
 # Welcome
 
-I'm **Jeverson Misael**, a **Software Engineer** working primarily with **JavaScript** and **Golang**.
-My current focus is on **backend development**, where I design and build **robust, high-performance systems** with an emphasis on **reliability, scalability, and resilience**.
+**Jeverson Misael**, a **Software Engineer** who currently works across the entire engineering process, from **system design** and **design patterns** to **product delivery**.
 
-I have experience developing **critical applications** that must operate consistently even in **restricted or hard-to-reach environments**, where stability and fault tolerance are essential.
+I design and build **robust, high-performance systems** with an emphasis on **reliability, scalability, and resilience**.
+
+I have experience developing **critical applications** that must operate consistently even in **restricted or hard-to-reach environments**, where **stability** and **fault tolerance** are essential.
+
 
 ---
 
@@ -25,8 +27,7 @@ I have experience developing **critical applications** that must operate consist
 * **Languages:** JavaScript / TypeScript, Golang
 * **Backend Frameworks:** NestJS,Adonis, Gin
 * **Hardware & IoT:** Arduino
-* **Frontend:** Vue.js
-* **Databases:** PostgreSQL, MySQL
+* **Frontend:** Vue.js, NextJs
 
 ---
 
