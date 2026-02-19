@@ -37,7 +37,4 @@ I have experience developing **critical applications** that must operate consist
 Faculdade Senac Paraná
 *2024 – 2026*
 
----
 
-* Tornar mais **corporativo**, mais **open-source**, ou mais **startup**
-* Traduzir para **português técnico** mantendo o mesmo nível de elegância
