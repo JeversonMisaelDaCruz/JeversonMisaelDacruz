@@ -1,40 +1,20 @@
-# Welcome
+<h1 align="center">Jeverson Misael</h1>
+<p align="center">
+  Founder &amp; Engineer · <a href="https://eretsystems.com.br">ERET Systems</a>
+</p>
+<p align="center">
+  <a href="https://radarpreco.com.br">radarpreco.com.br</a> ·
+  <a href="https://www.linkedin.com/in/jeverson-misael">LinkedIn</a> ·
+  <a href="mailto:misael@eretsystem.com">Email</a>
+</p>
+<br>
 
-**Jeverson Misael**, a **Software Engineer** who currently works across the entire engineering process, from **system design** and **design patterns** to **product delivery**.
+Founder of **ERET Systems**, a software company building tools for Brazilian retail.
 
-I design and build **robust, high-performance systems** with an emphasis on **reliability, scalability, and resilience**.
-
-I have experience developing **critical applications** that must operate consistently even in **restricted or hard-to-reach environments**, where **stability** and **fault tolerance** are essential.
-
-
----
-
-## 🔗 Connect with me
-
-<div align="center">  
-  <a href="https://www.linkedin.com/in/jeverson-misael" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">  
-  </a>  
-  <a href="mailto:jeversonmisael@gmail.com">  
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">  
-  </a>  
-</div>  
+Currently shipping **[Radar Preço](https://radarpreco.com.br)** — a price intelligence platform that helps retailers grow their margin and benchmark their market share against the industry.
 
 ---
 
-## 🛠 Technologies
+Fundador da **ERET Systems**, empresa de software que constrói ferramentas para o varejo brasileiro.
 
-* **Languages:** JavaScript / TypeScript, Golang
-* **Backend Frameworks:** NestJS,Adonis, Gin
-* **Hardware & IoT:** Arduino
-* **Frontend:** Vue.js, NextJs
-
----
-
-## 🎓 Academic Background
-
-**Technologist Degree**
-Faculdade Senac Paraná
-*2024 – 2026*
-
-
+Atualmente desenvolvendo o **[Radar Preço](https://radarpreco.com.br)** — uma plataforma de inteligência de preços que ajuda varejistas a aumentar a margem e acompanhar sua participação de mercado frente à indústria.
