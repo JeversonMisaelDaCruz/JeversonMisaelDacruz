@@ -1,6 +1,6 @@
 <h1 align="center">Jeverson Misael</h1>
 <p align="center">
-  Founder &amp; Sofware Engineer · <a href="https://eretsystems.com">ERET Systems</a>
+  Founder &amp; Engineer · <a href="https://eretsystems.com">ERET Systems</a>
 </p>
 <p align="center">
   <a href="https://radarpreco.com">radarpreco.com</a> ·
@@ -9,10 +9,10 @@
 </p>
 <br>
 
-Founder of **ERET Systems**, a software company building tools for Brazilian retail.
-Creator of **[Radar Preço](https://radarpreco.com)** — a price intelligence platform that helps retailers grow their margin and benchmark their market share against the industry.
+Founder of **ERET Systems**, a software company building tools for the Brazilian retail chain.
+Creator of **[Radar Preço](https://radarpreco.com)** — a price intelligence platform for industry, distributors and retailers, with real market data to price, negotiate and compete based on evidence.
 
 ---
 
-Fundador da **ERET Systems**, empresa de software que constrói ferramentas para o varejo brasileiro.
-Criador do **[Radar Preço](https://radarpreco.com)** — plataforma de inteligência de preços que ajuda varejistas a aumentar a margem e acompanhar sua participação de mercado frente à indústria.
+Fundador da **ERET Systems**, empresa de software que constrói ferramentas para a cadeia varejista brasileira.
+Criador do **[Radar Preço](https://radarpreco.com)** — plataforma de inteligência de preços para indústria, distribuidoras e varejo, com dados reais de mercado para precificar, negociar e competir com base em evidência.
